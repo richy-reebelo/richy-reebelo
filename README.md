@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- ⚡ Fun fact: I love to play Age of Empires II
+- ⚡ Fun fact: I love to play Age of Empires II.
